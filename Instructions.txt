@@ -1,0 +1,25 @@
+Welcome to BrickBreaker,
+
+The goal of the game is to control the two paddles to bounce
+the ball and hit all of the bricks. In order to advance to the next
+level, all of the bricks must be cleared. The game can either be
+played with one player or two players; however, the scores
+and the lives are pooled together. If the ball hits either the
+left or the bottom wall, you lose a life. If you lose all three lives,
+it's game over, man. There are a total of three levels to complete.
+The controls for the game are shown below:
+
+W - Move orange paddle right. 
+S - Move orange paddle down.
+UP - Move cyan paddle up.
+DOWN - Move cyan paddle down.
+Reset - Reset the score, level, and lives.
+
+Hitting each brick adds 100 points to the total score. There are three
+power-ups in the game:
+
+Red Block - Longer paddles
+Blue Block - Paddles move in opposite direction when key is pressed.
+Green Block - 500 points.
+
+Just hit OK.
